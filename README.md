@@ -28,6 +28,14 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - OPSEC quick reminders
 - Pro tips and common patterns
 
+🔄 **[Investigation Workflows](INVESTIGATION-WORKFLOWS.md)** - Visual workflows and decision trees:
+- General investigation workflow (5 phases)
+- Target-specific workflows (Person, Domain, Company, Email, Username)
+- Threat intelligence workflow
+- Decision trees for investigation planning
+- Common investigation patterns
+- Tool selection by phase
+
 <!---<p align="center">
 	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
 	<a href="https://github.com/astrosp/osint-tools#FILE UPLOAD" target="_blank">File Upload</a>
