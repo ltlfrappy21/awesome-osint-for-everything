@@ -30,7 +30,7 @@ A rapid-reference guide for starting OSINT investigations using this repository.
 
 5. Public Records (5 min)
    - TruePeopleSearch: https://truepeoplesearch.com
-   - Fast People Search: Various tools in [People](#people) section
+   - Fast People Search: Various tools in [People section](README.md#people)
 ```
 
 ### 30-Minute Domain Investigation
@@ -183,8 +183,8 @@ START
 ## Evidence Item
 
 **ID:** E001
-**Date Collected:** 2025-12-30
-**Time:** 14:30 UTC
+**Date Collected:** [YYYY-MM-DD]
+**Time:** [HH:MM UTC]
 **Source:** [URL or platform]
 **Archive:** [Link to archived version]
 **Type:** [Screenshot/Document/Data]
@@ -204,7 +204,7 @@ START
 
 **Case:** [Case Name/Number]
 **Investigator:** [Your ID]
-**Date:** 2025-12-30
+**Date:** [YYYY-MM-DD]
 
 ## Objectives Today
 - [ ] Task 1

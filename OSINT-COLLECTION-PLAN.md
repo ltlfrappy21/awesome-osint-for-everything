@@ -309,8 +309,8 @@ intitle:"index of" site:example.com
 ```markdown
 ## Collection Entry
 
-**Date:** 2025-12-30
-**Time:** 14:30 UTC
+**Date:** [YYYY-MM-DD]
+**Time:** [HH:MM UTC]
 **Collector:** [Your ID]
 **Source:** Twitter @username
 **URL:** [archived link]

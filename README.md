@@ -5,7 +5,7 @@
 <b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/></h1>
 
 <p align="center">
-A list of osint tools/websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
+A list of osint tools/websites for penetration testing, Reverse Searching, Red team Operations, information gathering, bugbounty and almost cover everything in single file.
 </p>
 
 ## 📋 OSINT Collection Plan & Quick Start
