@@ -21,6 +21,53 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 #### <i>Some of other OSINT tools List</i>
 
 - [osinttools.io](https://osinttools.io/) - Discover and compare the top OSINT tools in one place.
+
+## OSINT Framework & Methodology
+
+This repository now includes structured frameworks and methodologies to help you conduct OSINT investigations systematically and effectively:
+
+### 📚 Documentation Suite
+
+- **[OSINT-COLLECTION-PLAN.md](OSINT-COLLECTION-PLAN.md)** - Comprehensive intelligence collection planning framework covering:
+  - The complete Intelligence Cycle (Planning, Collection, Processing, Analysis, Dissemination, Feedback)
+  - **Intelligence Requirements Model** defining CIRs (Critical Intelligence Requirements), CINs (Critical Intelligence Needs), PIRs (Priority Intelligence Requirements), EEIs (Essential Elements of Information), MES (Mission Essential Systems), and HVAs (High Value Assets)
+  - Example mappings showing how to structure intelligence requirements hierarchically
+  - Guidance for multi-domain OSINT (enterprise IT/OT, telecommunications, aviation, defense, critical infrastructure, AI systems, secure edge, identity systems)
+  - Collection planning processes, source identification, and data management
+  - Legal, ethical, and operational security considerations
+
+- **[QUICK-START-GUIDE.md](QUICK-START-GUIDE.md)** - Rapid entry point for OSINT investigations:
+  - How to anchor investigations in PIRs (Priority Intelligence Requirements) and EEIs (Essential Elements of Information)
+  - Essential first steps for any investigation
+  - Quick investigation workflows for emails, domains, usernames, and IPs
+  - Best practices, efficiency tips, and common pitfalls
+  - Links to relevant tools from the main repository
+
+- **[INVESTIGATION-WORKFLOWS.md](INVESTIGATION-WORKFLOWS.md)** - Detailed workflows and decision trees:
+  - How to map workflows to PIRs and EEIs before starting
+  - 8 comprehensive investigation workflows (Domain/Organization, People, Username, Email, IP Address, Data Leak, Threat Actor, Technology/Vulnerability)
+  - ASCII flow diagrams showing investigation steps and decision points
+  - Documentation standards and quality control measures
+  - Integration with the broader OSINT tool catalog
+
+### 🎯 Why Use These Frameworks?
+
+The structured approach helps you:
+- **Focus** your investigations on specific intelligence questions (PIRs)
+- **Prioritize** collection based on Mission Essential Systems (MES) and High Value Assets (HVAs)
+- **Systematize** your workflow so nothing is missed
+- **Document** findings in a way that answers stakeholder requirements
+- **Scale** from quick tactical investigations to strategic intelligence programs
+
+### 🚀 Getting Started
+
+1. **Quick Investigation?** Start with [QUICK-START-GUIDE.md](QUICK-START-GUIDE.md)
+2. **Structured Approach?** Begin with [INVESTIGATION-WORKFLOWS.md](INVESTIGATION-WORKFLOWS.md)
+3. **Building a Program?** Review [OSINT-COLLECTION-PLAN.md](OSINT-COLLECTION-PLAN.md)
+4. **Need Tools?** Browse the comprehensive tool listings below
+
+---
+
 ## Breaches and Leaks
 
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
