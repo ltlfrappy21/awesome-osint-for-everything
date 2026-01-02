@@ -5,9 +5,36 @@
 <b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/></h1>
 
 <p align="center">
-A list of osint tools/websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
+A list of osint tools/websites for penetration testing, Reverse Searching, Red team Operations, information gathering, bugbounty and almost cover everything in single file.
 </p>
 
+## 📋 OSINT Collection Plan & Quick Start
+
+**NEW Resources for Structured Investigations:**
+
+📖 **[OSINT Collection Plan Framework](OSINT-COLLECTION-PLAN.md)** - Comprehensive guide for professional OSINT investigations:
+- Intelligence collection planning methodology
+- Step-by-step investigation workflows
+- Templates for different investigation types (Person, Domain, Company)
+- Legal and ethical guidelines
+- Tool selection guides by investigation type
+- Best practices and detailed checklists
+
+⚡ **[Quick Start Guide](QUICK-START-GUIDE.md)** - Fast reference for immediate investigations:
+- 30-minute investigation templates
+- Essential tool cheat sheets
+- Google Dorks reference
+- Investigation flowcharts
+- OPSEC quick reminders
+- Pro tips and common patterns
+
+🔄 **[Investigation Workflows](INVESTIGATION-WORKFLOWS.md)** - Visual workflows and decision trees:
+- General investigation workflow (5 phases)
+- Target-specific workflows (Person, Domain, Company, Email, Username)
+- Threat intelligence workflow
+- Decision trees for investigation planning
+- Common investigation patterns
+- Tool selection by phase
 
 <!---<p align="center">
 	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>

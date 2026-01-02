@@ -1,0 +1,13 @@
+{
+  "filters": {
+    "comments": true,
+    "allowlist": {
+      "allow": []
+    }
+  },
+  "rules": {
+    "terminology": {
+      "defaultTerms": true
+    }
+  }
+}
