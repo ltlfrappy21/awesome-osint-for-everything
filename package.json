@@ -1,14 +1,14 @@
 {
     "devDependencies": {
-      "markdownlint-cli": "^0.26.0",
-      "textlint": "^11.6.3",
-      "textlint-filter-rule-comments": "^1.2.2",
-      "textlint-filter-rule-whitelist": "^2.0.0",
-      "textlint-rule-terminology": "^2.1.4"
+        "markdownlint-cli": "^0.47.0",
+        "textlint": "^15.5.0",
+        "textlint-filter-rule-comments": "^1.2.2",
+        "textlint-filter-rule-whitelist": "^2.0.0",
+        "textlint-rule-terminology": "^2.1.4"
     },
     "scripts": {
-      "test": "npm run lint-markdown && npm run lint-terminology",
-      "lint-terminology": "textlint ./README.md",
-      "lint-markdown": "markdownlint ./README.md --ignore node_modules"
+        "test": "npm run lint-markdown && npm run lint-terminology",
+        "lint-terminology": "textlint ./README.md",
+        "lint-markdown": "markdownlint ./README.md --ignore node_modules"
     }
-  }
+}
